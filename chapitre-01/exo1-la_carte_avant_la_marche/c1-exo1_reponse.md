@@ -1,19 +1,21 @@
 ## Nombre de fichiers par type
-Windowedapp : 55
-Consoleapp: 98
-Testsuite: 60
-Staticlib:60
+Windowedapp : 55.  
+Consoleapp: 98.  
+Testsuite: 60.  
+Staticlib:60.  
 Et 2 chaînes de compilation 
+
 ## chemin et nom du projet de demarrage
-Entry file: C:\Users\Pc\OneDrive\Desktop\Nkentseu\Nkentseu.jenga
-Start project: Sandbox
-##sortie:
-Projects
+Entry file: C:\Users\Pc\OneDrive\Desktop\Nkentseu\Nkentseu.jenga.  
+
+Start project: Sandbox.  
+##sortie:.  
+Projects.  
 ------------------------------------------------------------
-Name                         Kind          Language   Test   External
+Name                         Kind          Language   Test   External.  
 =====================================================================
 __Unitest__                  StaticLib     C++        No     No
-NKPlatform_Tests             TestSuite     C++        Yes    Yes
+NKPlatform_Tests             TestSuite     C++        Yes    Yes 
 NKPlatform                   StaticLib     C++        No     Yes
 NKCore                       StaticLib     C++        No     Yes
 NKCore_Tests                 TestSuite     C++        Yes    Yes
