@@ -1,15 +1,14 @@
-## Nombre de fichiers par type
+## Nombre de projets
 Windowedapp : 55.  
 Consoleapp: 98.  
 Testsuite: 60.  
 Staticlib:60.  
-nombre total compté = 273 fichiers.   
-nombre total de fichiers après vérification : 273 fichiers.    
+nombre total compté = 273 projets.   
+nombre total de projets après vérification : 273 projets.    
 Et 2 chaînes de compilation .  
 
-## nom du projet de demarrage
-Nkentseu.jenga
-
+## nom du fichier racine
+Nkentseu.jenga .  
 Start project: Sandbox.  
 ##sortie:.  
 Projects.  
