@@ -5,10 +5,11 @@ Testsuite: 60.
 Staticlib:60.  
 nombre total compté = 273 projets.   
 nombre total de projets après vérification : 273 projets.    
-Et 2 chaînes de compilation .  
+Et 2 chaînes de compilation (deux sur cette installation).  
 
 ## nom du fichier racine
 Nkentseu.jenga .  
+## projet de demarrage
 Start project: Sandbox.  
 ##sortie:.  
 Projects.  
