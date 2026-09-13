@@ -3,10 +3,12 @@ Windowedapp : 55.
 Consoleapp: 98.  
 Testsuite: 60.  
 Staticlib:60.  
-Et 2 chaînes de compilation 
+nombre total compté = 273 fichiers.   
+nombre total de fichiers après vérification : 273 fichiers.    
+Et 2 chaînes de compilation .  
 
-## chemin et nom du projet de demarrage
-Entry file: C:\Users\Pc\OneDrive\Desktop\Nkentseu\Nkentseu.jenga.  
+## nom du projet de demarrage
+Nkentseu.jenga
 
 Start project: Sandbox.  
 ##sortie:.  
