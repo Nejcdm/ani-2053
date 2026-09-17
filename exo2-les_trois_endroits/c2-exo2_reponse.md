@@ -16,3 +16,5 @@ Changes to be committed:
  1 file changed, 0 insertions(+), 0 deletions(-)
 On branch master
 nothing to commit, working tree clean
+# Remarque
+je constate que lorsqu'on tape le git status après la modification du fichier , Git nous prévient bien que celui-ci a été modifié mais n'a pas été préparer pour être enregistrer et après le git add , il nous est signalé que le fichier est préparé à être enregistrer maintenant après le git commit nous informe que le fichier a bien été modifié et enregistrer dans Git
