@@ -259,4 +259,4 @@ correspond au commit de fusion effectué précédemment.
 
 Les différentes sorties obtenues permettent de vérifier les six situations demandées. Le `status` confirme que le dépôt est propre, le `stash list` confirme la conservation des travaux temporaires, le `reflog` permet de retrouver les anciennes positions de `HEAD`, et le `log` permet de visualiser les commits, la fusion et le commit d'annulation.
 
-**Cette fois, les lignes que tu as données sont bien intégrées dans le README**, notamment `13733f2`, `11edbe1`, `adc527f`, `af07491`, `b57958f`, ainsi que toute la sortie de `git status`, `git stash list` et `git reflog`.
+
