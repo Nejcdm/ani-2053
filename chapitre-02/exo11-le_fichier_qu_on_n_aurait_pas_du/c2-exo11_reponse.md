@@ -1,4 +1,4 @@
-# Commit d'un fichier de 10mo  dans mom dépôt 
+# Commit d'un fichier de 10mo  dans mon dépôt 
 ``taille `de .Git au départ``
 0,0430850982666016 Mo
 ``creation du fichier``
