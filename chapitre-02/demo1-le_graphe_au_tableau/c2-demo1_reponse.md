@@ -7,15 +7,15 @@ sortid de mon git log --graph :
 |/
 * ec5fa46 Commit de base
 
-dessin:
-ec5fa46
+dessin:.  
+ec5fa46.  
    │
-   ├──► bdf03d8
+   ├──► bdf03d8.  
    │       │
-   │       └──► bede6ec
+   │       └──► bede6ec.  
    │
-   └──► 915b42f
+   └──► 915b42f.   
              │
              └────────┐
                       ▼
-                   39ab62f
+                   39ab62f.  
