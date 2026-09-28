@@ -25,5 +25,5 @@
 - **Métadonnées de l'application** : présentes uniquement dans le code demandé (`NKENTSEU_DEFINE_APP_DATA`).
 - **Boucle principale** : le code 1 la laisse vide, le code 2 y ajoute la boucle d'événements (`PollEvent`) et l'emplacement pour la logique et le dessin.
 
-Dans le code du cours , `logger` n'est pas déclaré et il n'y a pas de `using namespace nkentseu;` : selon la bibliothèque, ces éléments peuvent être fournis par les en-têtes inclus, sinon le code ne compilera pas tel quel.
-nombre de lignes de code du code demandées : 37 lignes 
+Dans le code du cours , `logger` n'est pas déclaré et il n'y a pas de `using namespace nkentseu;` : selon la bibliothèque, ces éléments peuvent être fournis par les en-têtes inclus, sinon le code ne compilera pas tel quel.  
+nombre de lignes de code du code demandées : 37 lignes.  
