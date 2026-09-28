@@ -1,6 +1,4 @@
-// c3-exo8 : presse-papiers dans les deux sens.
-// T : lit le texte, le met en MAJUSCULES, le remet.
-// I : lit l'image, inverse ses couleurs, la remet.
+
 #include "NKWindow/NKWindow.h"
 #include "NKWindow/NKMain.h"
 #include "NKImage/NKImage.h"
@@ -68,3 +66,5 @@ int nkmain(const NkEntryState& state) {
     }
     return 0;
 }
+
+    
