@@ -1,0 +1,1 @@
+lignes : 19, utiles : 16, fond : 32 40 56
